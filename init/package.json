@@ -1,0 +1,26 @@
+{
+  "name": "app_express",
+  "version": "1.0.0",
+  "description": "app usuando framework express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OsvadoAlvarez/appExpress.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "osvaldoAlvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsvadoAlvarez/appExpress/issues"
+  },
+  "homepage": "https://github.com/OsvadoAlvarez/appExpress#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
